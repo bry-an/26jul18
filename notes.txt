@@ -5,3 +5,14 @@ Pseudoclass :
 Pseudoelement ::
 
 Font-weight: bold == font-weight: 700 (100-900)
+
+Order on stylesheet: Love Hate: Link -> Visited -> Hover -> *Focus* -> Active
+
+Change cursor: button { cursor: pointer; }
+
+Sass helps with CSS -- can add variables for common code
+
+Alternative to bootstrap: Materialize, UIKit, Skeleton (tight)
+
+Monday's homework:
+Remake portfolio using BootStrap and another using media queries
