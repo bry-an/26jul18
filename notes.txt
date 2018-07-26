@@ -1,0 +1,7 @@
+Front-size should be at least 16px on modern pages
+Line length should be 50-75 characters per line on a desktop
+
+Pseudoclass : 
+Pseudoelement ::
+
+Font-weight: bold == font-weight: 700 (100-900)
